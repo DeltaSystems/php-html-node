@@ -1,5 +1,5 @@
 {
-  "name": "griffbrad/html-node",
+  "name": "deltasystems/html-node",
   "autoload": {
     "psr-4": {
       "HtmlNode\\": "HtmlNode/"
